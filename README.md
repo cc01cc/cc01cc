@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Welcome to 01's world!
+
 <!--
 **cc01cc/cc01cc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
