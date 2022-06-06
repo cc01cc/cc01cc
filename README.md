@@ -2,6 +2,11 @@
 
 Welcome to 01's world!
 
+|[![cc01cc's GitHub stats](https://github-readme-stats.vercel.app/api?username=cc01cc&count_private=true&show_icons=true&theme=buefy&hide_border=true)](https://github.com/cc01cc/cc01cc)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cc01cc&layout=compact&hide_border=true)](https://github.com/cc01cc/cc01cc)|
+| ------------- | ------------- |
+
+> 感谢 [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) 提供了精美的卡片
+
 <!--
 **cc01cc/cc01cc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
