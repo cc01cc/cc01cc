@@ -2,6 +2,8 @@
 
 Welcome to 01's world!
 
+欢迎访问我的主页 *[CSDN 零一魔法](https://blog.csdn.net/m0_49270962?spm=1000.2115.3001.5343)* | *[知乎 零一](https://www.zhihu.com/people/lingyicc)*
+
 |[![cc01cc's GitHub stats](https://github-readme-stats.vercel.app/api?username=cc01cc&count_private=true&show_icons=true&theme=buefy&hide_border=true)](https://github.com/cc01cc/cc01cc)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cc01cc&layout=compact&hide_border=true)](https://github.com/cc01cc/cc01cc)|
 | ------------- | ------------- |
 
