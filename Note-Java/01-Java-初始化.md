@@ -77,7 +77,7 @@
 
 ### 2.3. JDK 验证
 
-在 `cmd/powershell` 中运行以下环境
+在 `cmd/powershell` 中运行以下命令
 
 ```shell
 java --version
