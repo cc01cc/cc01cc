@@ -1,25 +1,3 @@
-### Hi there 👋
+## CC01CC
 
-Welcome to 01's world!
-
-欢迎访问我的主页 *[cc01cc/零一的博客](https://cc01cc.com)* | *[CSDN 零一魔法](https://blog.csdn.net/m0_49270962?spm=1000.2115.3001.5343)* | *[知乎 零一](https://www.zhihu.com/people/lingyicc)* | *[stack overflow cc01cc](https://stackoverflow.com/users/15599248/cc01cc)*
-
-|[![cc01cc's GitHub stats](https://github-readme-stats.vercel.app/api?username=cc01cc&count_private=true&show_icons=true&theme=buefy&hide_border=true)](https://github.com/cc01cc/cc01cc)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cc01cc&layout=compact&hide_border=true)](https://github.com/cc01cc/cc01cc)|
-| ------------- | ------------- |
-
-> 感谢 [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) 提供了精美的卡片
-
-<!--
-**cc01cc/cc01cc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Home <https://cc01cc.com>
