@@ -15,4 +15,4 @@
 
 🔧 Technologies
 
-![skills](https://skillicons.dev/icons?i=java,ts,py,spring,tensorflow,pytorch,opencv,nginx,postgres,git,redis,mysql,pnpm,anaconda,arduino,latex&theme=light)
+![skills](https://skillicons.dev/icons?i=java,py,ts,spring,tensorflow,pytorch,nginx,opencv,git,postgres,redis,mysql,pnpm,anaconda,latex,arduino&theme=dark&perline=8)
