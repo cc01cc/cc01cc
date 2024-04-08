@@ -1,6 +1,6 @@
 ## Hey, CC01CC here! :wave:
 
-🎯 Information about me
+🎯 About me
 
 - 🌱 I’m addicted to EXPLORING&CREATING
 - 🌟 Blog <https://cc01cc.cn>
@@ -15,4 +15,4 @@
 
 🔧 Technologies
 
-![skills](https://skillicons.dev/icons?i=ts,cs,js,java,py,spring,tensorflow,pytorch,opencv,regex,nginx,postgres,docker,git,redis,vite,laravel,electron,redis,vscode,idea,mysql,pnpm,anaconda,arduino,debian,latex,bash&theme=light)
+![skills](https://skillicons.dev/icons?i=java,ts,py,spring,tensorflow,pytorch,opencv,nginx,postgres,git,redis,mysql,pnpm,anaconda,arduino,latex&theme=light)
