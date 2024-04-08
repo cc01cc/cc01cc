@@ -1,3 +1,3 @@
 ## CC01CC
 
-- Home <https://cc01cc.com>
+- Home <https://cc01cc.cn>
