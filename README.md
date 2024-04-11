@@ -1,4 +1,4 @@
-## Hey, CC01CC here! :wave:
+## Hi, CC01CC here! :wave:
 
 🎯 About me
 
